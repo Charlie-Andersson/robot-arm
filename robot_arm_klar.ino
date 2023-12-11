@@ -69,8 +69,8 @@ void loop() {
   Serial.print(xValue1);
   Serial.print(", ");
   Serial.print(yValue1);
-  Serial.print(" Joystick2: ");  // Added space for clarity
+  Serial.print(" Joystick2: ");  
   Serial.print(xValue2);
   Serial.print(", ");
-  Serial.println(yValue2);  // Use println to start a new line for better readability
+  Serial.println(yValue2); 
 }
